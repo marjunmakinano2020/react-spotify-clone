@@ -30,3 +30,5 @@ Todo
 ```
 
 ## Todo
+
+* Fix console warnings
